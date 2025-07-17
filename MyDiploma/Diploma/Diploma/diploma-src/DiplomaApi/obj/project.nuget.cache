@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SgvSn4s8nvM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WEB\\WebstormProjects\\diploma\\diploma-src\\DiplomaApi\\DiplomaApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WEB\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\WEB\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
