@@ -10,3 +10,16 @@ C:\Rep\MyDiploma\Diploma\Appointment.Database\obj\Debug\net6.0\Appointment.Datab
 C:\Rep\MyDiploma\Diploma\Appointment.Database\obj\Debug\net6.0\refint\Appointment.Database.dll
 C:\Rep\MyDiploma\Diploma\Appointment.Database\obj\Debug\net6.0\Appointment.Database.pdb
 C:\Rep\MyDiploma\Diploma\Appointment.Database\obj\Debug\net6.0\ref\Appointment.Database.dll
+C:\Rep\MedConnect\MyDiploma\Diploma\Appointment.Database\bin\Debug\net6.0\Appointment.Database.deps.json
+C:\Rep\MedConnect\MyDiploma\Diploma\Appointment.Database\bin\Debug\net6.0\Appointment.Database.dll
+C:\Rep\MedConnect\MyDiploma\Diploma\Appointment.Database\bin\Debug\net6.0\Appointment.Database.pdb
+C:\Rep\MedConnect\MyDiploma\Diploma\Appointment.Database\obj\Debug\net6.0\Appointment.Database.csproj.AssemblyReference.cache
+C:\Rep\MedConnect\MyDiploma\Diploma\Appointment.Database\obj\Debug\net6.0\Appointment.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rep\MedConnect\MyDiploma\Diploma\Appointment.Database\obj\Debug\net6.0\Appointment.Database.AssemblyInfoInputs.cache
+C:\Rep\MedConnect\MyDiploma\Diploma\Appointment.Database\obj\Debug\net6.0\Appointment.Database.AssemblyInfo.cs
+C:\Rep\MedConnect\MyDiploma\Diploma\Appointment.Database\obj\Debug\net6.0\Appointment.Database.csproj.CoreCompileInputs.cache
+C:\Rep\MedConnect\MyDiploma\Diploma\Appointment.Database\obj\Debug\net6.0\Appointment.Database.sourcelink.json
+C:\Rep\MedConnect\MyDiploma\Diploma\Appointment.Database\obj\Debug\net6.0\Appointment.Database.dll
+C:\Rep\MedConnect\MyDiploma\Diploma\Appointment.Database\obj\Debug\net6.0\refint\Appointment.Database.dll
+C:\Rep\MedConnect\MyDiploma\Diploma\Appointment.Database\obj\Debug\net6.0\Appointment.Database.pdb
+C:\Rep\MedConnect\MyDiploma\Diploma\Appointment.Database\obj\Debug\net6.0\ref\Appointment.Database.dll

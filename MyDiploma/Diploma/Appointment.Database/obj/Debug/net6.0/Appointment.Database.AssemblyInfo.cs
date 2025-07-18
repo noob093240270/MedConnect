@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Appointment.Database")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2596cdec7b28d453d24ee46bb915f93e183c4302")]
 [assembly: System.Reflection.AssemblyProductAttribute("Appointment.Database")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Appointment.Database")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

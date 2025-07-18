@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AcB3dlYJY+E=",
+  "dgSpecHash": "gVJRs/1kEn0=",
   "success": true,
-  "projectFilePath": "C:\\Rep\\MyDiploma\\Diploma\\Appointment.Database\\Appointment.Database.csproj",
+  "projectFilePath": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Appointment.Database\\Appointment.Database.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WEB\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\WEB\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

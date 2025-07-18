@@ -1942,11 +1942,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Rep\\MyDiploma\\Diploma\\Appointment.Database\\Appointment.Database.csproj",
+      "projectUniqueName": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Appointment.Database\\Appointment.Database.csproj",
       "projectName": "Appointment.Database",
-      "projectPath": "C:\\Rep\\MyDiploma\\Diploma\\Appointment.Database\\Appointment.Database.csproj",
+      "projectPath": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Appointment.Database\\Appointment.Database.csproj",
       "packagesPath": "C:\\Users\\WEB\\.nuget\\packages\\",
-      "outputPath": "C:\\Rep\\MyDiploma\\Diploma\\Appointment.Database\\obj\\",
+      "outputPath": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Appointment.Database\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
