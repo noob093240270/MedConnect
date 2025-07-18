@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{28C784BB-ED8E-45F9-81F2-5AAF8529B668}|Diploma\\Diploma.csproj|solutionrelative:diploma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28C784BB-ED8E-45F9-81F2-5AAF8529B668}|Diploma\\Diploma.csproj|c:\\rep\\medconnect\\mydiploma\\diploma\\diploma\\diploma.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{28C784BB-ED8E-45F9-81F2-5AAF8529B668}|Diploma\\Diploma.csproj|solutionrelative:diploma\\diploma.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{412ADFCB-1594-44C6-92D7-421B934A9550}|Appointment.Database\\Appointment.Database.csproj|c:\\rep\\medconnect\\mydiploma\\diploma\\appointment.database\\appointment.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{412ADFCB-1594-44C6-92D7-421B934A9550}|Appointment.Database\\Appointment.Database.csproj|solutionrelative:appointment.database\\appointment.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{28C784BB-ED8E-45F9-81F2-5AAF8529B668}|Diploma\\Diploma.csproj|c:\\rep\\medconnect\\mydiploma\\diploma\\diploma\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28C784BB-ED8E-45F9-81F2-5AAF8529B668}|Diploma\\Diploma.csproj|solutionrelative:diploma\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{412ADFCB-1594-44C6-92D7-421B934A9550}|Appointment.Database\\Appointment.Database.csproj|c:\\rep\\medconnect\\mydiploma\\diploma\\appointment.database\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{412ADFCB-1594-44C6-92D7-421B934A9550}|Appointment.Database\\Appointment.Database.csproj|solutionrelative:appointment.database\\migrations\\20250717152022_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28C784BB-ED8E-45F9-81F2-5AAF8529B668}|Diploma\\Diploma.csproj|c:\\rep\\medconnect\\mydiploma\\diploma\\diploma\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{28C784BB-ED8E-45F9-81F2-5AAF8529B668}|Diploma\\Diploma.csproj|solutionrelative:diploma\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{28C784BB-ED8E-45F9-81F2-5AAF8529B668}|Diploma\\Diploma.csproj|c:\\rep\\medconnect\\mydiploma\\diploma\\diploma\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{28C784BB-ED8E-45F9-81F2-5AAF8529B668}|Diploma\\Diploma.csproj|solutionrelative:diploma\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -58,50 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 349,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Appointment.Database\\Entities\\Appointment.cs",
-              "RelativeDocumentMoniker": "Appointment.Database\\Entities\\Appointment.cs",
-              "ToolTip": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Appointment.Database\\Entities\\Appointment.cs",
-              "RelativeToolTip": "Appointment.Database\\Entities\\Appointment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T11:28:36.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppointmentsController.cs",
-              "DocumentMoniker": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Diploma\\Areas\\Appointments\\AppointmentsController.cs",
-              "RelativeDocumentMoniker": "Diploma\\Areas\\Appointments\\AppointmentsController.cs",
-              "ToolTip": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Diploma\\Areas\\Appointments\\AppointmentsController.cs",
-              "RelativeToolTip": "Diploma\\Areas\\Appointments\\AppointmentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T09:54:48.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20250717152022_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Appointment.Database\\Migrations\\20250717152022_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Appointment.Database\\Migrations\\20250717152022_InitialCreate.cs",
-              "ToolTip": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Appointment.Database\\Migrations\\20250717152022_InitialCreate.cs",
-              "RelativeToolTip": "Appointment.Database\\Migrations\\20250717152022_InitialCreate.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T15:20:55.414Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -111,40 +64,14 @@
               "RelativeDocumentMoniker": "Diploma\\Program.cs",
               "ToolTip": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Diploma\\Program.cs",
               "RelativeToolTip": "Diploma\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBgAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T07:52:57.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Appointment.Database.csproj",
-              "DocumentMoniker": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Appointment.Database\\Appointment.Database.csproj",
-              "RelativeDocumentMoniker": "Appointment.Database\\Appointment.Database.csproj",
-              "ToolTip": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Appointment.Database\\Appointment.Database.csproj",
-              "RelativeToolTip": "Appointment.Database\\Appointment.Database.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-17T15:14:04.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Diploma.csproj",
-              "DocumentMoniker": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Diploma\\Diploma.csproj",
-              "RelativeDocumentMoniker": "Diploma\\Diploma.csproj",
-              "ToolTip": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Diploma\\Diploma.csproj",
-              "RelativeToolTip": "Diploma\\Diploma.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-17T15:14:15.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Appointment.Database\\Entities\\Doctor.cs",
               "RelativeDocumentMoniker": "Appointment.Database\\Entities\\Doctor.cs",
@@ -152,12 +79,11 @@
               "RelativeToolTip": "Appointment.Database\\Entities\\Doctor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T11:48:29.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T11:48:29.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Appointment.Database\\Entities\\Client.cs",
               "RelativeDocumentMoniker": "Appointment.Database\\Entities\\Client.cs",
@@ -165,12 +91,11 @@
               "RelativeToolTip": "Appointment.Database\\Entities\\Client.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T11:56:36.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T11:56:36.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "AppointmentsContext.cs",
               "DocumentMoniker": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Appointment.Database\\Context\\AppointmentsContext.cs",
               "RelativeDocumentMoniker": "Appointment.Database\\Context\\AppointmentsContext.cs",
@@ -178,12 +103,11 @@
               "RelativeToolTip": "Appointment.Database\\Context\\AppointmentsContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T12:02:00.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T12:02:00.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "DoctorType.cs",
               "DocumentMoniker": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Appointment.Database\\Common\\DoctorType.cs",
               "RelativeDocumentMoniker": "Appointment.Database\\Common\\DoctorType.cs",
@@ -191,12 +115,60 @@
               "RelativeToolTip": "Appointment.Database\\Common\\DoctorType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T15:27:21.289Z",
+              "WhenOpened": "2025-07-17T15:27:21.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Diploma\\appsettings.json",
+              "RelativeDocumentMoniker": "Diploma\\appsettings.json",
+              "ToolTip": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Diploma\\appsettings.json",
+              "RelativeToolTip": "Diploma\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T08:55:01.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
+              "Title": "20250717152022_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Appointment.Database\\Migrations\\20250717152022_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Appointment.Database\\Migrations\\20250717152022_InitialCreate.cs",
+              "ToolTip": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Appointment.Database\\Migrations\\20250717152022_InitialCreate.cs",
+              "RelativeToolTip": "Appointment.Database\\Migrations\\20250717152022_InitialCreate.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:20:55.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Diploma\\Areas\\Appointments\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "Diploma\\Areas\\Appointments\\AppointmentsController.cs",
+              "ToolTip": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Diploma\\Areas\\Appointments\\AppointmentsController.cs",
+              "RelativeToolTip": "Diploma\\Areas\\Appointments\\AppointmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:54:48.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Appointment.Database\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "Appointment.Database\\Entities\\Appointment.cs",
+              "ToolTip": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Appointment.Database\\Entities\\Appointment.cs",
+              "RelativeToolTip": "Appointment.Database\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:28:36.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Diploma\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Diploma\\appsettings.Development.json",
@@ -204,21 +176,7 @@
               "RelativeToolTip": "Diploma\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-17T08:55:05.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Diploma\\appsettings.json",
-              "RelativeDocumentMoniker": "Diploma\\appsettings.json",
-              "ToolTip": "C:\\Rep\\MedConnect\\MyDiploma\\Diploma\\Diploma\\appsettings.json",
-              "RelativeToolTip": "Diploma\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-17T08:55:01.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T08:55:05.307Z"
             }
           ]
         }

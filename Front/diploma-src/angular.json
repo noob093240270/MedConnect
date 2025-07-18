@@ -61,7 +61,8 @@
               "buildTarget": "diploma-src:build:production"
             },
             "development": {
-              "buildTarget": "diploma-src:build:development"
+              "buildTarget": "diploma-src:build:development",
+              "proxyConfig": "proxy.conf.json"
             }
           },
           "defaultConfiguration": "development"
